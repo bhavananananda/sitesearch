@@ -1,0 +1,18 @@
+Customizing UML for Fun and Profit;http://www.sdmagazine.com/uml/ 
+UML2003 conference homepage;http://www.umlconference.org/
+International conference on the UML;http://www.cs.toronto.edu/uml2001
+This site contains information about Perl and CGI;www.perl.com
+The Deitel and Deitel Web Site;www.deitel.com
+Purchase books on this web site;www.amazon.com
+Perl for the the Win32 platform;www.activestate.com
+The Perl Mongers Web page;www.pm.org
+Monthly online Perl periodical;www.perlmonth.com
+Register for a Free UML Toolkit;www.embarcadero.com
+UML Training, Consulting;objectdiscovery.com
+Unified Modeling Language Resource Center  ;www.rational.com/uml/index.jsp
+University of Massachusetts at Lowell;www.uml.edu/  
+The UML Bibliography ;www.db.informatik.uni-bremen.de/umlbib/  
+Pacestar UML Diagrammer;www.pacestar.com
+UML Jumpstart Training from Iconix;www.iconixsw.com
+UML Reference Card <http://www.holub.com> ©2002 Allen I. Holub  ;www.holub.com/class/uml/uml.html Practical UML;www.togethersoft.com/services/practical_guides/umlonlinecourse/  
+Software Development Conference & ;www.sdexpo.com/ 

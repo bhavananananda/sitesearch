@@ -1,0 +1,102 @@
+BODY {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+DD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+DL {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+DT {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+H1 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 40px
+}
+H2 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 28px
+}
+H3 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 18px
+}
+PRE {
+	FONT-FAMILY: Courier, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+LI {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+OL {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+P {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+TT {
+	FONT-FAMILY: Courier,"Courier New", monospace; FONT-SIZE: 14px
+}
+TABLE {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+TH {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+UL {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; LIST-STYLE: square outside
+}
+.footnote {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 10px
+}
+.head1 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 40px
+}
+.head2 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 28px
+}
+.head3 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 18px
+}
+.yellowhighlight {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; backgroundcolor: "#FFFF00"
+}
+A:link {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0066cc; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #0066cc; TEXT-DECORATION: underline
+}
+A.main:link {
+	COLOR: #21447c; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.main:visited {
+	COLOR: #21447c; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A.main:hover {
+	COLOR: #698ccd; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+A.offPage:link {
+	COLOR: maroon; TEXT-DECORATION: none
+}
+A.offPage:visited {
+	COLOR: maroon; TEXT-DECORATION: none
+}
+A.offPage:hover {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+A.onPage:link {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A.onPage:visited {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A.onPage:hover {
+	COLOR: #0066cc; TEXT-DECORATION: underline
+}

@@ -1,0 +1,7 @@
+The Unified Modeling Language
+The Unified Modeling Language™ (UML) was developed jointly by Grady Booch, Ivar Jacobson, and Jim Rumbaugh at Rational Software Corporation, with contributions from other leading methodologists, software vendors, and many users. Based on extensive use of the Booch, OMT, and Jacobson methods, the UML is the evolution of these and other approaches to business process, object, and component modeling. The UML provides the application modeling language for: 
+Business process modeling with use cases 
+Class and object modeling 
+Component modeling 
+Distribution and deployment modeling 
+Database Design 
